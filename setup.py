@@ -21,9 +21,9 @@ setup(
     url='https://github.com/crey0/eigenio',
 
     author='Christophe Reymann',
-    author_email='christophe.reymann@laas.fr',
+    author_email='',
     
-    license='BSD-3-Clause',
+    license='MPL-2.0',
 
     classifiers=[
         'Development Status :: 3 - Alpha',
